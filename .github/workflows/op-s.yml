@@ -9,7 +9,7 @@ on:
         default: 'ipq807x' # 默认目标设备
 
 env:
-  REPO_TOKEN: "fake_repo_token"
+  REPO_TOKEN: "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"
   PPPOE_USERNAME: "fake_pppoe_user"
   PPPOE_PASSWD: "fake_pppoe_password"
   SCKEY: "fake_sckey"
